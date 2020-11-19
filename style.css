@@ -7,3 +7,7 @@ body {
   padding: 4em 1em;
   background-color: rgba(132, 123, 123, 0.66);
 }
+
+p {
+  padding-top: 10px;
+}
